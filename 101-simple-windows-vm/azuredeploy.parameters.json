@@ -3,16 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "msstore2"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Dell1234!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "mrs20192"
+    },
+    "location": {
+        "value": "West US"
+    },
+    "sizeOfDiskInGB": {
+        "value": "20"
     }
   }
 }
