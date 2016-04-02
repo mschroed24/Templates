@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "myStorageAccount2"
     },
     "adminUsername": {
       "value": "admin123"
